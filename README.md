@@ -1,2 +1,2 @@
 # agh-blocklists
-Custom filtering rules for AdguardHome
+My custom filtering rules for AdguardHome
