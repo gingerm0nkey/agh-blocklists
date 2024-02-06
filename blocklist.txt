@@ -1,0 +1,28 @@
+! Title: Gingerm0nkey custom blocklist
+! Homepage: https://github.com/gingerm0nkey/agh-blocklists
+!
+||settings-win.data.microsoft.com^$important
+||na1r.services.adobe.com^$important
+||hlrcv.stage.adobe.com^$important
+||lmlicenses.wip4.adobe.com^$important
+||lm.licenses.adobe.com^$important
+||activate.adobe.com^$important
+||practivate.adobe.com^$important
+||genuine.adobe.com^$important
+||prod.adobegenuine.com^$important
+||ardownload.adobe.com^$important
+||armmf.adobe.com^$important
+||geo2.adobe.com^$important
+||acroipm2.adobe.com^$important
+||uds.licenses.adobe.com^$important
+||client.messaging.adobe.com^$important
+||crs.cr.adobe.com^$important
+||adobeid*.services.adobe.com^$important
+||hbrcv.adobe.com^$important
+||hbrt.adobe.com^$important
+||oobe.adobe.com^$important
+||resources.licenses.adobe.com^$important
+||auth.services.adobe.com^$important
+||cc-api-data.adobe.io^$important
+||assets.adobedtm.com^$important
+||api.auth.adobe.com^$important

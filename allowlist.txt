@@ -1,0 +1,28 @@
+! Title: Gingerm0nkey custom allowlist
+! Homepage: https://github.com/gingerm0nkey/agh-blocklists
+!
+@@||lbv5.mperf.com^$important
+@@||fls-eu.amazon.fr^$important
+@@||tr.news.voyagesleclerc.com^$important
+@@||cdn.adnext.fr^$important
+@@||cdn.tagcommander.com^$important
+@@||t.notif-colissimo-laposte.info^$important
+@@||ichnaea.netflix.com^$important
+@@||branch.io^$important
+@@||doubleclick.net^$important
+@@||avisageng-colis-webexternal.pickup-services.com^$important
+@@||betclic.fr^$important
+@@||fdj.fr^$important
+@@||sia.internet.apps.samsung.com^$important
+@@||config-api.internet.apps.samsung.com^$important
+@@||adconsent.samsungrs.com^$important
+@@||nordaccount.com^$important
+@@||nordcdn.com^$important
+@@||nordvpn.com^$important
+@@||nordvpnteams.com^$important
+@@||wireguard.com^$important
+@@||vpn-api.proton.me^$important
+@@||protonstatus.com^$important
+@@||protonvpn.ch^$important
+@@||protonvpn.com^$important
+@@||protonvpn.net^$important
