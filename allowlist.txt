@@ -7,7 +7,6 @@
 @@||cdn.adnext.fr^$important
 @@||cdn.tagcommander.com^$important
 @@||t.notif-colissimo-laposte.info^$important
-@@||ichnaea.netflix.com^$important
 @@||branch.io^$important
 @@||doubleclick.net^$important
 @@||avisageng-colis-webexternal.pickup-services.com^$important
