@@ -1,13 +1,15 @@
 ! Title: Gingerm0nkey custom blocklist
 ! Homepage: https://github.com/gingerm0nkey/agh-blocklists
 !
+! Microsoft
+||settings-win.data.microsoft.com^$important
+!
 ! LG Smart TV
 ||aic-ngfts.lge.com^$important
 ||ibs.lgappstv.com^$important
 ||smartshare.lgtvsdp.com^$important
 ||rdx2.lgtvsdp.com^$important
 ||lgtvcommon.com^$important
-!
 !
 ! Amazon Fire TV
 ||devicemessaging.us-east-1.amazon.com^$important
@@ -17,7 +19,6 @@
 ||rad.msn.com^$important
 !
 ! Adobe
-||settings-win.data.microsoft.com^$important
 ||na1r.services.adobe.com^$important
 ||hlrcv.stage.adobe.com^$important
 ||lmlicenses.wip4.adobe.com^$important
