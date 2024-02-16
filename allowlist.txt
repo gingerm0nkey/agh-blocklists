@@ -25,3 +25,4 @@
 @@||protonvpn.ch^$important
 @@||protonvpn.com^$important
 @@||protonvpn.net^$important
+@@||pcloud.com^$important
