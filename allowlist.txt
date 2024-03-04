@@ -12,6 +12,7 @@
 @@||avisageng-colis-webexternal.pickup-services.com^$important
 @@||betclic.fr^$important
 @@||fdj.fr^$important
+@@||api-js.datadome.co^$important
 @@||sia.internet.apps.samsung.com^$important
 @@||config-api.internet.apps.samsung.com^$important
 @@||adconsent.samsungrs.com^$important
