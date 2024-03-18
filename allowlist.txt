@@ -27,3 +27,5 @@
 @@||protonvpn.com^$important
 @@||protonvpn.net^$important
 @@||pcloud.com^$important
+@@||agoda.com^$important
+@@||secure-hotel-tracker.com^$important
