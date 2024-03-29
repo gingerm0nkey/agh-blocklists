@@ -43,3 +43,6 @@
 ||cc-api-data.adobe.io^$important
 ||assets.adobedtm.com^$important
 ||api.auth.adobe.com^$important
+!
+! Misc
+||codecstatistic.synology.com^$important
