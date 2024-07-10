@@ -20,6 +20,7 @@
 @@||pcloud.com^$important
 @@||agoda.com^$important
 @@||secure-hotel-tracker.com^$important
+@@||numbuzin.shop^$important
 !
 ! NordVPN
 !
