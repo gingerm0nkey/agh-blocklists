@@ -21,6 +21,8 @@
 @@||agoda.com^$important
 @@||secure-hotel-tracker.com^$important
 @@||numbuzin.shop^$important
+@@||clubclio.shop^$important
+@@||spilanthox.shop^$important
 !
 ! NordVPN
 !
