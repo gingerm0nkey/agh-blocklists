@@ -23,6 +23,7 @@
 @@||numbuzin.shop^$important
 @@||clubclio.shop^$important
 @@||spilanthox.shop^$important
+@@||travelodgehotels.asia^$important
 !
 ! NordVPN
 !
