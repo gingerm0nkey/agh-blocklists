@@ -24,6 +24,7 @@
 @@||clubclio.shop^$important
 @@||spilanthox.shop^$important
 @@||travelodgehotels.asia^$important
+@@||qbittorrent.org^$important
 !
 ! NordVPN
 !
